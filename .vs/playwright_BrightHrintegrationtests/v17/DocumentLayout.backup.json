@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GitHub\\playwright_BrightHrintegrationtests\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Travel_Councellor\\BrightHr_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_BrightHrintegrationtests\\playwright_BrightHrintegrationtests.csproj|c:\\travel_councellor\\brighthr_test\\playwright_brighthrintegrationtests\\playwrightcode\\classrecordbrighthr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_BrightHrintegrationtests\\playwright_BrightHrintegrationtests.csproj|solutionrelative:playwright_brighthrintegrationtests\\playwrightcode\\classrecordbrighthr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_BrightHrintegrationtests\\playwright_BrightHrintegrationtests.csproj|c:\\travel_councellor\\brighthr_test\\playwright_brighthrintegrationtests\\playwrightcode\\repeatableactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_BrightHrintegrationtests\\playwright_BrightHrintegrationtests.csproj|solutionrelative:playwright_brighthrintegrationtests\\playwrightcode\\repeatableactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_BrightHrintegrationtests\\playwright_BrightHrintegrationtests.csproj|c:\\travel_councellor\\brighthr_test\\playwright_brighthrintegrationtests\\pageobjects\\pageobjects_brighthr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_BrightHrintegrationtests\\playwright_BrightHrintegrationtests.csproj|solutionrelative:playwright_brighthrintegrationtests\\pageobjects\\pageobjects_brighthr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassRecordBrightHR.cs",
+              "DocumentMoniker": "C:\\Travel_Councellor\\BrightHr_Test\\playwright_BrightHrintegrationtests\\PlaywrightCode\\ClassRecordBrightHR.cs",
+              "RelativeDocumentMoniker": "playwright_BrightHrintegrationtests\\PlaywrightCode\\ClassRecordBrightHR.cs",
+              "ToolTip": "C:\\Travel_Councellor\\BrightHr_Test\\playwright_BrightHrintegrationtests\\PlaywrightCode\\ClassRecordBrightHR.cs",
+              "RelativeToolTip": "playwright_BrightHrintegrationtests\\PlaywrightCode\\ClassRecordBrightHR.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:46:24.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepeatableActions.cs",
+              "DocumentMoniker": "C:\\Travel_Councellor\\BrightHr_Test\\playwright_BrightHrintegrationtests\\PlaywrightCode\\RepeatableActions.cs",
+              "RelativeDocumentMoniker": "playwright_BrightHrintegrationtests\\PlaywrightCode\\RepeatableActions.cs",
+              "ToolTip": "C:\\Travel_Councellor\\BrightHr_Test\\playwright_BrightHrintegrationtests\\PlaywrightCode\\RepeatableActions.cs",
+              "RelativeToolTip": "playwright_BrightHrintegrationtests\\PlaywrightCode\\RepeatableActions.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:46:55.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageObjects_BrightHR.cs",
+              "DocumentMoniker": "C:\\Travel_Councellor\\BrightHr_Test\\playwright_BrightHrintegrationtests\\PageObjects\\PageObjects_BrightHR.cs",
+              "RelativeDocumentMoniker": "playwright_BrightHrintegrationtests\\PageObjects\\PageObjects_BrightHR.cs",
+              "ToolTip": "C:\\Travel_Councellor\\BrightHr_Test\\playwright_BrightHrintegrationtests\\PageObjects\\PageObjects_BrightHR.cs",
+              "RelativeToolTip": "playwright_BrightHrintegrationtests\\PageObjects\\PageObjects_BrightHR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:46:34.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 118,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
